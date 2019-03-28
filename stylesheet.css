@@ -1,0 +1,103 @@
+.background{
+  background-image: url("disney-parks-logo-513637FE80-seeklogo.com.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-position:absolute;
+  background-attachment:local;
+  width: 12%;
+  height:14%;
+  min-width: 12%;
+  min-height: 14%;
+  background-size: cover;
+  margin: auto;
+}
+
+.stargif {
+  position: center;
+  width:14%;
+  height:14%;
+  min-width: 15%;
+  min-height: 15%;
+  position: relative;
+  left:42.5%;
+  top:-100px;
+}
+
+.starline {
+  position: center;
+  position: relative;
+  width:20%;
+  left:25%;
+  top:-90px;
+  min-width:20%;
+}
+
+.container {
+  position:center;
+  margin:0px auto;
+  width:400px;
+  height: 300px;
+  position: relative;
+  top:-90px;
+  left:4px;
+  padding: 25px;
+  font-size: 20;
+  color:black;
+}
+
+input[type=text],input[type=email],input[type=date] {
+  width: 100%;
+  padding:8px;
+  margin: 5px 0px 0;
+  border: none;
+  background:#f1f1f1;
+}
+
+.signup {
+  position: relative;
+  top:290px;
+  left:137px;
+  width:10%;
+  min-width: 10%;
+}
+
+.submitbtn {
+  position: relative;
+  top: 66px;
+  left:-50px;
+  background-color: #0066CC;
+  color:white;
+  padding:9px 5px;
+  border:none;
+  cursor: pointer;
+  width:37%;
+  opacity:0.9;
+}
+
+.submitbtn:hover{
+  opacity:1;
+}
+
+.resetbtn {
+  position: relative;
+  top:66px;
+  left:160px;
+  background-color: #0066CC;
+  color: white;
+  padding:9px 5px;
+  border: none;
+  cursor: pointer;
+  width: 37%;
+  opacity: 0.9;
+}
+
+.resetbtn:hover{
+  opacity:1;
+}
+
+.paragh {
+  font-size: 80%;
+  position: relative;
+  top:-90px;
+  left:45%;
+}
